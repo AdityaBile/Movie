@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; /* Set 1rem to 10px (for easier rem conversion) */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1.6rem; /* 16px */
+  line-height: 1.5;
+}
